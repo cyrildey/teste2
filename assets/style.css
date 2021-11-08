@@ -1,0 +1,34 @@
+
+.right {
+    float: right;
+}
+.logo >img{
+    width: 100px;
+    float: left;
+    border-radius: 50px;
+}
+main
+{
+    width: 100%;
+    float: left;
+}
+.sidebar{
+    float: left;
+    width: 30%;
+    background-color: #978e81;
+    height: 500px;
+}
+.content{
+    float: left;
+    width: 70%;
+}
+.contentItem{
+    float: left;
+    width: 33.33%;
+    background-color: #cdd5ff;
+}
+.itemImages{
+    margin: 10%;
+    float: left;
+    width: 80%;
+}
